@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amanmeena0" alt="amanmeena0" /></a> </p>
 
-- 🔭 I’m currently working on **Face Recognition Project**
+- 🔭 I’m currently working on **Deep Research Agent**
 
 - 🌱 I’m currently learning **Deep neural nets**
 
