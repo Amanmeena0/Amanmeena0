@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Deep Research Agent**
 
-- 🌱 I’m currently learning **Deep neural nets**
+- 🌱 I’m currently learning **LangGraph**
 
 - 👯 I’m looking to collaborate on **AI-ML Projects**
 
