@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **App development**
 
-- 🌱 I’m currently learning **Fulter & LangGraph & ReAct**
+- 🌱 I’m currently learning **Flutter & LangGraph & ReAct**
 
 - 👨‍💻 All of my projects are available at [www.com](www.com)
 
