@@ -15,7 +15,7 @@
 <img 
   align="right" 
   width="180" 
-  height="180" 
+  height="160" 
   alt="Profile Illustration" 
   src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"
 />
