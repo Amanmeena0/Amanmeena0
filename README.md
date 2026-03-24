@@ -1,4 +1,4 @@
-<img width="220" height="220" alt="image" src="https://github.com/user-attachments/assets/2a6ed717-e2b5-4774-afc0-1e303a17ea37" /><div align="center">
+<div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 </div>
 
@@ -12,7 +12,7 @@
 
 ## 👩‍💻 About Me    
 
-<img align="right" height="150" src="https://tenor.com/view/coding-scaler-create-impact-monkey-programmer-gif-24991476" />
+<img width="220" height="220" alt="image" src="https://github.com/user-attachments/assets/2a6ed717-e2b5-4774-afc0-1e303a17ea37" />
 
 I'm **AMAN MEENA** from **DELHI,INDIA**.
 
