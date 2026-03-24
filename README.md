@@ -18,7 +18,7 @@
   height="180" 
   alt="Profile Illustration" 
   src="https://github.com/user-attachments/assets/2a6ed717-e2b5-4774-afc0-1e303a17ea37" 
-/>>
+/>
 
 I'm **AMAN MEENA** from **DELHI,INDIA**.
 
