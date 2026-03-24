@@ -31,35 +31,7 @@ I'm **AMAN MEENA** from **DELHI,INDIA**.
 ## 🛠️ Languages & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="50" alt="typescript" />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=js" height="50" alt="javascript" />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=py" height="50" alt="python" />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=go" height="50" alt="go" />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=rust" height="50" alt="rust" />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=react" height="50" alt="react" />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="50" alt="nextjs" />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="50" alt="nestjs" />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="tailwindcss" />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="50" alt="graphql" />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=aws" height="50" alt="aws" />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=docker" height="50" alt="docker" />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=kubernetes" height="50" alt="kubernetes" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="50" alt="firebase" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="50" alt="dotnet" />
+  [![My Skills](https://skillicons.dev/icons?i=py,typescript,javascript,nextjs,docker,kubernetes,firebase,postgress, postman, powershell,mongodb,mysql,dotnet,git,aws,gcp,azure,fastapi,react,vite,tensorflow,sklearn,opencv,pytorch&perline=3)](https://skillicons.dev)
 </div>
 
 ---
