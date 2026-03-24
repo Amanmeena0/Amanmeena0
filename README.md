@@ -31,7 +31,7 @@ I'm **AMAN MEENA** from **DELHI,INDIA**.
 ## 🛠️ Languages & Tools
 
 <div align="center">
-  [![My Skills](https://skillicons.dev/icons?i=py,typescript,javascript,nextjs,docker,kubernetes,firebase,postgress, postman, powershell,mongodb,mysql,dotnet,git,aws,gcp,azure,fastapi,react,vite,tensorflow,sklearn,opencv,pytorch&perline=3)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=py,typescript,javascript,nextjs,docker,kubernetes,firebase,postgress postman,powershell,mongodb,mysql,dotnet,git,aws,gcp,azure,fastapi,react,vite,tensorflow,sklearn,opencv,pytorch)](https://skillicons.dev)
 </div>
 
 ---
