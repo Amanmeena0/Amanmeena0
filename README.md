@@ -45,17 +45,36 @@ I'm **AMAN MEENA** from **DELHI,INDIA**.
 ## 📊 My Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amanmeena0&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Amanmeena0&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
-  
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Amanmeena0&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&cache_seconds=1800" 
+    height="160" 
+    alt="GitHub Stats" 
+  />
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=Amanmeena0&layout=compact&langs_count=6&theme=dracula&cache_seconds=1800" 
+    height="160" 
+    alt="Top Languages" 
+  />
+
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Amanmeena0&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="180" alt="streak graph" />
-  <img src="https://github-profile-trophy.vercel.app?username=Amanmeena0&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="180" alt="trophy graph" />
-</div>
 
+  <img 
+    src="https://streak-stats.demolab.com?user=Amanmeena0&theme=dracula&border_radius=6" 
+    height="180" 
+    alt="GitHub Streak" 
+  />
+
+  <img 
+    src="https://github-profile-trophy.vercel.app?username=Amanmeena0&theme=dracula&column=4&margin-w=10&margin-h=10" 
+    height="180" 
+    alt="GitHub Trophies" 
+  />
+
+</div>
 ---
 
 ## 🐍 Contribution Graph
