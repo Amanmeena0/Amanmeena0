@@ -75,8 +75,9 @@ I'm **AMAN MEENA** from **DELHI,INDIA**.
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Amanmeena0/Amanmeena0/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Amanmeena0/Amanmeena0/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Amanmeena0/Amanmeena0/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/Amanmeena0/Amanmeena0/output/pacman-contribution-graph.svg">
 </picture>
+
 
 ---
 
