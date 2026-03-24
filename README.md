@@ -47,31 +47,18 @@ I'm **AMAN MEENA** from **DELHI,INDIA**.
 <div align="center">
 
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=Amanmeena0&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&cache_seconds=1800" 
-    height="160" 
-    alt="GitHub Stats" 
+    src="https://github-readme-stats.vercel.app/api?username=Amanmeena0&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=1800" 
+    height="140"
   />
 
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=Amanmeena0&layout=compact&langs_count=6&theme=dracula&cache_seconds=1800" 
-    height="160" 
-    alt="Top Languages" 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=Amanmeena0&layout=compact&theme=dracula&langs_count=6&cache_seconds=1800" 
+    height="140"
   />
-
-</div>
-
-<div align="center">
 
   <img 
     src="https://streak-stats.demolab.com?user=Amanmeena0&theme=dracula&border_radius=6" 
-    height="180" 
-    alt="GitHub Streak" 
-  />
-
-  <img 
-    src="https://github-profile-trophy.vercel.app?username=Amanmeena0&theme=dracula&column=4&margin-w=10&margin-h=10" 
-    height="180" 
-    alt="GitHub Trophies" 
+    height="140"
   />
 
 </div>
