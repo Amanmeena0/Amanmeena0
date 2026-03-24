@@ -42,7 +42,8 @@ I'm **AMAN MEENA** from **DELHI,INDIA**.
 
 ---
 
-📊 **My Stats**
+## 📊 My Stats
+
 <div align="center" style="display: flex; flex-direction: column; gap: 16px; align-items: center;">
 
 
