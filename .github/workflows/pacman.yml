@@ -8,23 +8,34 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0
+          ref: ${{ github.head_ref }}
+          token: ${{ secrets.GITHUB_TOKEN }}
           
       - name: Generate Pac-Man Graph
-        uses: abozanona/pacman-contribution-graph@main
+        uses: lowlighter/metrics@latest
         with:
-          github_user_name: Amanmeena0
+          filename: output/pacman-contribution-graph.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_pacman: yes
+          plugin_pacman_user: Amanmeena0
           
-      - name: Deploy to output branch
-        uses: peaceiris/actions-gh-pages@v4
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./output
-          publish_branch: output
-          keep_files: false
-          user_name: 'github-actions[bot]'
-          user_email: 'github-actions[bot]@users.noreply.github.com'
+      - name: Create Dark Version
+        run: |
+          # Create a dark version by inverting colors or copying
+          cp output/pacman-contribution-graph.svg output/pacman-contribution-graph-dark.svg
+          
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add output/
+          git diff --quiet && git diff --staged --quiet || git commit -m "Update Pac-Man contribution graph"
+          git push origin HEAD:main --force
