@@ -12,7 +12,7 @@
 
 ## 👩‍💻 About Me    
 
-<img align="right" width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/2a6ed717-e2b5-4774-afc0-1e303a17ea37" />
+<img align="right" width="180" height="180" alt="image" src="https://github.com/user-attachments/assets/2a6ed717-e2b5-4774-afc0-1e303a17ea37" />
 
 I'm **AMAN MEENA** from **DELHI,INDIA**.
 
