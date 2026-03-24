@@ -34,7 +34,7 @@ I'm **AMAN MEENA** from **DELHI,INDIA**.
 
   <a href="https://skillicons.dev">
     <img 
-      src="https://skillicons.dev/icons?i=py,ts,js,nextjs,docker,kubernetes,firebase,postgres,postman,powershell,mongodb,mysql,dotnet,git,aws,gcp,azure,fastapi,react,vite,tensorflow,sklearn,opencv,pytorch" 
+      src="https://skillicons.dev/icons?i=py,ts,js,nextjs,docker,kubernetes,firebase,postgres,postman,powershell,mongodb,mysql,dotnet,git,aws,azure,fastapi,react,vite,tensorflow,sklearn,opencv,pytorch" 
       alt="Tech Stack Icons"
     />
   </a>
