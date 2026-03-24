@@ -42,9 +42,10 @@ I'm **AMAN MEENA** from **DELHI,INDIA**.
 
 ---
 
+📊 **My Stats**
 <div align="center" style="display: flex; flex-direction: column; gap: 16px; align-items: center;">
 
-  <!-- First Row: Stats + Top Languages -->
+
   <div style="display: flex; gap: 12px; flex-wrap: wrap; justify-content: center;">
     <img 
       src="https://github-readme-stats.vercel.app/api?username=Amanmeena0&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=1800" 
@@ -58,7 +59,6 @@ I'm **AMAN MEENA** from **DELHI,INDIA**.
     />
   </div>
 
-  <!-- Second Row: GitHub Streak -->
   <img 
     src="https://streak-stats.demolab.com?user=Amanmeena0&theme=dracula&border_radius=6" 
     height="165"
