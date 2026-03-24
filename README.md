@@ -5,12 +5,12 @@
 <h1 align="center">Hey there 👋 What's Up?</h1>
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Amanmeena0.Amanmeena0" />
 </div>
 
 ---
 
-## 👩‍💻 About Me
+## 👩‍💻 About Me    
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" />
 
