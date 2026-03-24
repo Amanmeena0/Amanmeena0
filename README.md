@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
+  <img height="150"  src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
 </div>
 
 <h1 align="center">Hey there 👋 What's Up?</h1>
@@ -17,7 +17,7 @@
   width="180" 
   height="180" 
   alt="Profile Illustration" 
-  src="https://github.com/user-attachments/assets/2a6ed717-e2b5-4774-afc0-1e303a17ea37" 
+  src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"
 />
 I'm **AMAN MEENA** from **DELHI,INDIA**.
 
