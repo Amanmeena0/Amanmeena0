@@ -42,28 +42,31 @@ I'm **AMAN MEENA** from **DELHI,INDIA**.
 
 ---
 
-<div align="center">
+<div align="center" style="display: flex; flex-direction: column; gap: 16px; align-items: center;">
 
-  <!-- First Row -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Amanmeena0&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=1800" 
-    height="165"
-  />
+  <!-- First Row: Stats + Top Languages -->
+  <div style="display: flex; gap: 12px; flex-wrap: wrap; justify-content: center;">
+    <img 
+      src="https://github-readme-stats.vercel.app/api?username=Amanmeena0&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=1800" 
+      height="165"
+      style="border-radius: 8px; box-shadow: 0 2px 6px rgba(0, 0, 0, 0.15);"
+    />
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs?username=Amanmeena0&layout=compact&theme=dracula&langs_count=6&cache_seconds=1800" 
+      height="165"
+      style="border-radius: 8px; box-shadow: 0 2px 6px rgba(0, 0, 0, 0.15);"
+    />
+  </div>
 
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=Amanmeena0&layout=compact&theme=dracula&langs_count=6&cache_seconds=1800" 
-    height="165" align="right"
-  />
-
-  <br/>
-
-  <!-- Second Row -->
+  <!-- Second Row: GitHub Streak -->
   <img 
     src="https://streak-stats.demolab.com?user=Amanmeena0&theme=dracula&border_radius=6" 
     height="165"
+    style="border-radius: 8px; box-shadow: 0 2px 6px rgba(0, 0, 0, 0.15);"
   />
 
 </div>
+
 ---
 
 ## 🐍 Contribution Graph
