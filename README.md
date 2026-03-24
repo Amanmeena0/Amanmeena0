@@ -52,7 +52,7 @@ I'm **AMAN MEENA** from **DELHI,INDIA**.
 
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs?username=Amanmeena0&layout=compact&theme=dracula&langs_count=6&cache_seconds=1800" 
-    height="165"
+    height="165" align="right"
   />
 
   <br/>
