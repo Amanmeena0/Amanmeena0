@@ -72,12 +72,23 @@ I'm **AMAN MEENA** from **DELHI,INDIA**.
 
 ## 🐍 Contribution Graph
 
+
+<!-- Light -->
+<img src="https://raw.githubusercontent.com/Amanmeena0/Amanmeena0/output/pacman-contribution-graph.svg" 
+  alt="Pac-Man contribution graph" 
+  width="100%" />
+
+<!-- Dark (GitHub only) -->
+<img src="https://raw.githubusercontent.com/Amanmeena0/Amanmeena0/output/pacman-contribution-graph-dark.svg" 
+  alt="Pac-Man contribution graph (dark)" 
+  width="100%" 
+  style="--theme-light:hidden;" />
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Amanmeena0/Amanmeena0/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Amanmeena0/Amanmeena0/output/pacman-contribution-graph.svg">
   <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/Amanmeena0/Amanmeena0/output/pacman-contribution-graph.svg">
 </picture>
-
 
 ---
 
