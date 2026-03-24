@@ -17,9 +17,8 @@
   width="180" 
   height="180" 
   alt="Profile Illustration" 
-  src="https://github.com/user-attachments/assets/2a6ed717-e2b5-4774-afc0-1e303a17ea37" 
+  src="https://raw.githubusercontent.com/<your-username>/<repo-name>/main/<path-to-gif>.gif" 
 />
-
 I'm **AMAN MEENA** from **DELHI,INDIA**.
 
 - 🔭 I'm currently working as **Agent Orchestration**.
