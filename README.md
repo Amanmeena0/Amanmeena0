@@ -16,7 +16,7 @@
 
 I'm **AMAN MEENA** from **DELHI,INDIA**.
 
-- 🔭 I'm currently working as **Agent Orachestrations**.
+- 🔭 I'm currently working as **Agent Orchestration**.
 - 📚 I'm currently learning about **Agent Deployment**.
 - 🤝 I'm open to collaborating on **AI & WebDev Projects**.
 - ⚡ In my free time I **like to learn about Current Affairs & Read Self Help books (currently reading THE MOUNTAIN IS YOU BY BRENE BROWN)**.
