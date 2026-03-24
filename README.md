@@ -72,6 +72,7 @@ I'm **AMAN MEENA** from **DELHI,INDIA**.
 
 ## 🐍 Contribution Graph
 
+![Pac-Man Contribution Graph](https://pacman.rodrigocamargo.com/pacman/Amanmeena0?light)
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Amanmeena0/Amanmeena0/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Amanmeena0/Amanmeena0/output/pacman-contribution-graph.svg">
