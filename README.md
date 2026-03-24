@@ -8,7 +8,7 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Amanmeena0.Amanmeena0" />
 </div>
 
----
+
 
 ## 👩‍💻 About Me    
 
@@ -26,7 +26,6 @@ I'm **AMAN MEENA** from **DELHI,INDIA**.
 - 🤝 I'm open to collaborating on **AI & WebDev Projects**.
 - ⚡ In my free time I **like to learn about Current Affairs & Read Self Help books (currently reading THE MOUNTAIN IS YOU BY BRENE BROWN)**.
 
----
 
 ## 🛠️ Languages & Tools
 
@@ -40,7 +39,7 @@ I'm **AMAN MEENA** from **DELHI,INDIA**.
 
 </div>
 
----
+
 
 ## 📊 My Stats
 
@@ -68,7 +67,7 @@ I'm **AMAN MEENA** from **DELHI,INDIA**.
 
 </div>
 
----
+
 
 ## 🤝 Connect With Me
 
