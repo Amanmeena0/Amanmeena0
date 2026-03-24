@@ -14,12 +14,12 @@
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" />
 
-I'm **[Your Name]** from **[Your Location]**.
+I'm **AMAN MEENA** from **DELHI,INDIA**.
 
-- 🔭 I'm currently working as **[Your Role]**
-- 📚 I'm currently learning **[What you're learning]**
-- 🤝 I'm open to collaborating on **[Types of projects]**
-- ⚡ In my free time I **[Your hobby/interest]**
+- 🔭 I'm currently working as **Agent Orachestrations**.
+- 📚 I'm currently learning about **Agent Deployment**.
+- 🤝 I'm open to collaborating on **AI & WebDev Projects**.
+- ⚡ In my free time I **like to learn about Current Affairs & Read Self Help books (currently reading THE MOUNTAIN IS YOU BY BRENE BROWN)**.
 
 ---
 
