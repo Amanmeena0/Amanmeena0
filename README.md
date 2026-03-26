@@ -22,7 +22,7 @@
 I'm **AMAN MEENA** from **DELHI,INDIA**.
 
 - 🔭 I'm currently working as **Custom Software Developer Associate**.
-- 📚 I'm currently learning about **Agent Deployment**.
+- 📚 I'm currently learning about **A2A and ADK**.
 - 🤝 I'm open to collaborating on **AI & WebDev Projects**.
 - ⚡ In my free time I **like to learn about Current Affairs & Read Self Help books (currently reading THE MOUNTAIN IS YOU BY BRENE BROWN)**.
 
