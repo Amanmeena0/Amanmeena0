@@ -42,7 +42,7 @@ I'm **AMAN MEENA** from **DELHI,INDIA**.
 
 ### 🌐 Technical Intern | Directorate General of Foreign Trade (DGFT)  
 📅 June 2025  – July 2025 
-📍 India  
+📍 Delhi, India  
 
 - Developed and maintained web-based modules for **trade data management systems** using modern frontend and backend technologies.  
 - Designed data pipelines for **processing, cleaning, and structuring large-scale trade datasets**.  
