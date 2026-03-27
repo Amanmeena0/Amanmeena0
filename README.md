@@ -39,36 +39,6 @@ I'm **AMAN MEENA** from **DELHI,INDIA**.
 
 </div>
 
-
-
-## 📊 My Stats
-
-<div align="center" style="display: flex; flex-direction: column; gap: 16px; align-items: center;">
-
-
-  <div style="display: flex; gap: 12px; flex-wrap: wrap; justify-content: center;">
-    <img 
-      src="https://github-readme-stats.vercel.app/api?username=Amanmeena0&show_icons=true&theme=radical" 
-      height="165"
-      style="border-radius: 8px; box-shadow: 0 2px 6px rgba(0, 0, 0, 0.15);"
-    />
-    <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs?username=Amanmeena0&layout=compact&theme=dracula&langs_count=6&cache_seconds=1800" 
-      height="165"
-      style="border-radius: 8px; box-shadow: 0 2px 6px rgba(0, 0, 0, 0.15);"
-    />
-  </div>
-
-  <img 
-    src="https://streak-stats.demolab.com?user=Amanmeena0&theme=dracula&border_radius=6" 
-    height="165"
-    style="border-radius: 8px; box-shadow: 0 2px 6px rgba(0, 0, 0, 0.15);"
-  />
-
-</div>
-
-
-
 ## 🤝 Connect With Me
 
 <div align="center">
