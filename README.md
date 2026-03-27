@@ -26,7 +26,36 @@ I'm **AMAN MEENA** from **DELHI,INDIA**.
 - 🤝 I'm open to collaborating on **AI & WebDev Projects**.
 - ⚡ In my free time I **like to learn about Current Affairs & Read Self Help books (currently reading THE MOUNTAIN IS YOU BY BRENE BROWN)**.
 
+## 💼 Experience
 
+### 🚀 Full Stack Developer | SafeSphere Project  
+📅 Jan 2025 – Present  
+
+- Architected and developed a **civic-tech platform** enabling users to file FIRs, view crime analytics, and access emergency services.  
+- Implemented **React (frontend)** and **FastAPI (backend)** for scalable system design.  
+- Integrated **Mapbox GL JS** for real-time geospatial crime visualization and clustering.  
+- Designed an **AI-powered RAG chatbot** using LangChain for contextual assistance.  
+- Improved system usability by optimizing UI/UX with Tailwind CSS.  
+
+---
+
+### 🤖 AI/ML Developer | Conversational RAG Chatbot  
+📅 2025  
+
+- Built a **document-aware chatbot** using LangChain, FAISS, and Google Generative AI embeddings.  
+- Enabled **multi-source ingestion** (PDFs, web data) with semantic retrieval pipelines.  
+- Integrated **voice interaction** using Speech Recognition and Text-to-Speech (pyttsx3).  
+- Developed a modular architecture with separate pipelines for ingestion, retrieval, and response generation.  
+
+---
+
+### 🌐 Web Developer | Portfolio & Projects  
+📅 2024 – Present  
+
+- Developed responsive web applications using **React, TypeScript, and Tailwind CSS**.  
+- Built authentication systems (login/signup) with validation and user feedback handling.  
+- Focused on performance optimization and clean UI design for enhanced user experience.
+  
 ## 🛠️ Languages & Tools
 
 <div align="center">
