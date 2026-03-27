@@ -28,33 +28,27 @@ I'm **AMAN MEENA** from **DELHI,INDIA**.
 
 ## 💼 Experience
 
-### 🚀 Full Stack Developer | SafeSphere Project  
-📅 Jan 2025 – Present  
+### 🛰️ Research Intern | DIPR, DRDO  
+📅 July 2024 – Aug 2024
+📍 Delhi, India  
 
-- Architected and developed a **civic-tech platform** enabling users to file FIRs, view crime analytics, and access emergency services.  
-- Implemented **React (frontend)** and **FastAPI (backend)** for scalable system design.  
-- Integrated **Mapbox GL JS** for real-time geospatial crime visualization and clustering.  
-- Designed an **AI-powered RAG chatbot** using LangChain for contextual assistance.  
-- Improved system usability by optimizing UI/UX with Tailwind CSS.  
-
+- Developed and evaluated **machine learning models** for analyzing psychological and behavioral datasets.  
+- Implemented data pipelines for **data cleaning, transformation, and feature extraction**.  
+- Applied statistical and ML techniques to derive actionable insights for defense research applications.  
+- Collaborated with cross-functional research teams to optimize model performance and validate results.  
+- Delivered technical reports and presentations summarizing methodologies and outcomes.
+  
 ---
 
-### 🤖 AI/ML Developer | Conversational RAG Chatbot  
-📅 2025  
+### 🌐 Technical Intern | Directorate General of Foreign Trade (DGFT)  
+📅 June 2025  – July 2025 
+📍 India  
 
-- Built a **document-aware chatbot** using LangChain, FAISS, and Google Generative AI embeddings.  
-- Enabled **multi-source ingestion** (PDFs, web data) with semantic retrieval pipelines.  
-- Integrated **voice interaction** using Speech Recognition and Text-to-Speech (pyttsx3).  
-- Developed a modular architecture with separate pipelines for ingestion, retrieval, and response generation.  
-
----
-
-### 🌐 Web Developer | Portfolio & Projects  
-📅 2024 – Present  
-
-- Developed responsive web applications using **React, TypeScript, and Tailwind CSS**.  
-- Built authentication systems (login/signup) with validation and user feedback handling.  
-- Focused on performance optimization and clean UI design for enhanced user experience.
+- Developed and maintained web-based modules for **trade data management systems** using modern frontend and backend technologies.  
+- Designed data pipelines for **processing, cleaning, and structuring large-scale trade datasets**.  
+- Implemented automation scripts to reduce manual intervention and improve operational efficiency.  
+- Worked on integrating APIs and backend services to enable seamless data flow across systems.  
+- Collaborated with stakeholders to translate business requirements into scalable technical solutions.  
   
 ## 🛠️ Languages & Tools
 
