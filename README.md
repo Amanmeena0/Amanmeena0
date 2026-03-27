@@ -48,7 +48,7 @@ I'm **AMAN MEENA** from **DELHI,INDIA**.
 
   <div style="display: flex; gap: 12px; flex-wrap: wrap; justify-content: center;">
     <img 
-      src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amanmeena0&show_icons=true&theme=radical)" 
+      src="https://github-readme-stats.vercel.app/api?username=Amanmeena0&show_icons=true&theme=radical" 
       height="165"
       style="border-radius: 8px; box-shadow: 0 2px 6px rgba(0, 0, 0, 0.15);"
     />
