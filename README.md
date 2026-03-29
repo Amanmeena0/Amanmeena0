@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="fit" width="fit"  src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
+  <img height="fit" width="fit"  src="[https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif](https://github.com/Amanmeena0/Amanmeena0/blob/main/Video_Editing_and_GIF_Customization.mp4)" />
 </div>
 
 <h1 align="center">Hey there 👋 What's Up?</h1>
