@@ -40,7 +40,7 @@ I'm **AMAN MEENA** from **DELHI,INDIA**.
   
 ---
 
-### 🌐 Technical Intern | Directorate General of Foreign Trade (DGFT)  
+### 🌐 AI Intern | Directorate General of Foreign Trade (DGFT)  
 📅 June 2025  – July 2025 
 📍 Delhi, India  
 
