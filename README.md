@@ -46,7 +46,6 @@ I'm **AMAN MEENA** from **DELHI,INDIA**.
 - Engineered a RAG-based chatbot for DGFT using LangChain, ChromaDB, and Gemini LLM, delivering 99\% accurate responses with real-time, up-to-date data handling. 
 - Scaled the system to handle 100K+ concurrent requests, ensuring high availability and low-latency performance.
 - Built and optimised data pipelines to process 100+ documents, transforming unstructured trade data into a robust knowledge base.
-- Worked on integrating APIs and backend services to enable seamless data flow across systems.  
 - Integrated APIs and automated workflows, significantly reducing manual effort and improving end-to-end system efficiency. 
   
 
