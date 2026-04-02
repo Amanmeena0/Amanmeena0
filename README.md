@@ -32,10 +32,9 @@ I'm **AMAN MEENA** from **DELHI,INDIA**.
 📅 July 2024 – Aug 2024
 📍 Delhi, India  
 
-- Developed and evaluated **machine learning models** for analyzing psychological and behavioral datasets.  
-- Implemented data pipelines for **data cleaning, transformation, and feature extraction**.  
-- Applied statistical and ML techniques to derive actionable insights for defense research applications.  
-- Collaborated with cross-functional research teams to optimize model performance and validate results.  
+- Developed a multimodal lie detection system leveraging both facial expression analysis and voice-based NLP models, enabling comprehensive behavioral assessment.- Implemented data pipelines for **data cleaning, transformation, and feature extraction**.  
+- Achieved 91% accuracy on a 10K+ dataset, while optimizing model performance to deliver 35% faster processing 
+- Built efficient data pipelines and applied advanced ML techniques to extract actionable insights for research-driven applications  
 - Delivered technical reports and presentations summarizing methodologies and outcomes.
   
 ---
@@ -44,11 +43,11 @@ I'm **AMAN MEENA** from **DELHI,INDIA**.
 📅 June 2025  – July 2025 
 📍 Delhi, India  
 
-- Developed and maintained web-based modules for **trade data management systems** using modern frontend and backend technologies.  
-- Designed data pipelines for **processing, cleaning, and structuring large-scale trade datasets**.  
-- Implemented automation scripts to reduce manual intervention and improve operational efficiency.  
+- Engineered a RAG-based chatbot for DGFT using LangChain, ChromaDB, and Gemini LLM, delivering 99\% accurate responses with real-time, up-to-date data handling. 
+- Scaled the system to handle 100K+ concurrent requests, ensuring high availability and low-latency performance.
+- Built and optimised data pipelines to process 100+ documents, transforming unstructured trade data into a robust knowledge base.
 - Worked on integrating APIs and backend services to enable seamless data flow across systems.  
-- Collaborated with stakeholders to translate business requirements into scalable technical solutions.  
+- Integrated APIs and automated workflows, significantly reducing manual effort and improving end-to-end system efficiency. 
   
 
 ## 🤝 Connect With Me
