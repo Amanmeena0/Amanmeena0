@@ -32,9 +32,9 @@ I'm **AMAN MEENA** from **DELHI,INDIA**.
 📅 July 2024 – Aug 2024
 📍 Delhi, India  
 
-- Developed a multimodal lie detection system leveraging both facial expression analysis and voice-based NLP models, enabling comprehensive behavioral assessment.- Implemented data pipelines for **data cleaning, transformation, and feature extraction**.  
-- Achieved 91% accuracy on a 10K+ dataset, while optimizing model performance to deliver 35% faster processing 
-- Built efficient data pipelines and applied advanced ML techniques to extract actionable insights for research-driven applications  
+- Developed a **Multimodal lie detection system** leveraging both facial expression analysis and voice-based NLP models, enabling comprehensive behavioral assessment.- Implemented data pipelines for **data cleaning, transformation, and feature extraction**.  
+- Achieved 91% accuracy on a **10K+ dataset**, while optimizing model performance to deliver **35% faster processing**.
+- Built efficient **Data pipelines and applied advanced ML techniques** to extract actionable insights for research-driven applications  
 - Delivered technical reports and presentations summarizing methodologies and outcomes.
   
 ---
@@ -43,10 +43,10 @@ I'm **AMAN MEENA** from **DELHI,INDIA**.
 📅 June 2025  – July 2025 
 📍 Delhi, India  
 
-- Engineered a RAG-based chatbot for DGFT using LangChain, ChromaDB, and Gemini LLM, delivering 99\% accurate responses with real-time, up-to-date data handling. 
-- Scaled the system to handle 100K+ concurrent requests, ensuring high availability and low-latency performance.
-- Built and optimised data pipelines to process 100+ documents, transforming unstructured trade data into a robust knowledge base.
-- Integrated APIs and automated workflows, significantly reducing manual effort and improving end-to-end system efficiency. 
+- Engineered a **RAG-based chatbot** for DGFT using **LangChain, ChromaDB, and Gemini LLM**, delivering **99\% accurate responses** with real-time, up-to-date data handling. 
+- Scaled the system to **Handle 100K+ concurrent requests**, ensuring high availability and low-latency performance.
+- Built and optimised **Data pipelines to process 100+ documents**, transforming unstructured trade data into a robust knowledge base.
+- **Integrated APIs and automated workflows**, significantly reducing manual effort and improving end-to-end system efficiency. 
   
 
 ## 🤝 Connect With Me
