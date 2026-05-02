@@ -33,7 +33,7 @@ I'm **AMAN MEENA** from **DELHI,INDIA**.
 📍 Delhi, India  
 
 - Developed a **Multimodal lie detection system** leveraging both facial expression analysis and voice-based NLP models, enabling comprehensive behavioral assessment.- Implemented data pipelines for **data cleaning, transformation, and feature extraction**.  
-- Achieved 91% accuracy on a **10K+ dataset**, while optimizing model performance to deliver **35% faster processing**.
+- Achieved 57% accuracy on a **10K+ dataset**, while optimizing model performance to deliver **13%** faster processing**.
 - Built efficient **Data pipelines and applied advanced ML techniques** to extract actionable insights for research-driven applications  
 - Delivered technical reports and presentations summarizing methodologies and outcomes.
   
