@@ -37,17 +37,6 @@ I'm **AMAN MEENA** from **DELHI,INDIA**.
 
 ---
 
-### 🛰️ Research Intern | DIPR, DRDO  
-📅 July 2024 – Aug 2024
-📍 Delhi, India  
-
-- Developed a **Multimodal lie detection system** utilizing facial expression analysis and voice-based NLP techniques for behavioral assessment.
-- Processed and analyzed datasets containing 1,000+ samples, improving processing efficiency by 13% while achieving measurable model accuracy.
-- Extracted features from raw samples and built a robust data pipeline to analyze those features for answer generation.
-- Prepared and documented multiple technical research reports detailing methodologies, observations, and analytical findings.
-  
----
-
 ### 🌐 AI Intern | Directorate General of Foreign Trade (DGFT)  
 📅 June 2025  – July 2025 
 📍 Delhi, India  
@@ -56,6 +45,17 @@ I'm **AMAN MEENA** from **DELHI,INDIA**.
 - Developed scalable ingestion and embedding pipelines to process and organize 50+ government documents into a structured vector database.
 - Implemented retrieval pipelines to extract precise and contextually relevant information, that significantly improves system accuracy and response quality.
 - Enhanced the conversational flow and answer accuracy through prompt engineering, semantic search, and context aware retrieval strategies
+  
+---
+
+### 🛰️ Research Intern | DIPR, DRDO  
+📅 July 2024 – Aug 2024
+📍 Delhi, India  
+
+- Developed a **Multimodal lie detection system** utilizing facial expression analysis and voice-based NLP techniques for behavioral assessment.
+- Processed and analyzed datasets containing 1,000+ samples, improving processing efficiency by 13% while achieving measurable model accuracy.
+- Extracted features from raw samples and built a robust data pipeline to analyze those features for answer generation.
+- Prepared and documented multiple technical research reports detailing methodologies, observations, and analytical findings.
   
 
 ## 🤝 Connect With Me
