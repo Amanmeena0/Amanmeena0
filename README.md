@@ -35,6 +35,8 @@ I'm **AMAN MEENA** from **DELHI,INDIA**.
 - Completed intensive training across 15+ technologies including Agentic AI, RAG, LangChain, LangGraph, AWS, Azure, DevOps, and Machine Learning through hands-on practice.
 - Obtained a full-time offer after achieving P2+ proficiency in Accenture’s MyCompetency program.
 
+---
+
 ### 🛰️ Research Intern | DIPR, DRDO  
 📅 July 2024 – Aug 2024
 📍 Delhi, India  
