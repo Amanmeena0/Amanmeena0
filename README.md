@@ -28,14 +28,21 @@ I'm **AMAN MEENA** from **DELHI,INDIA**.
 
 ## 💼 Experience
 
+### 🌐 Software Intern | Accenture
+📅 Dec 2025 - Present
+📍Gurugram, Haryana
+- Help in resolveing production support tickets in a large scale internation project while maintaining SLA compliance and improving issue resolution efficiency.
+- Completed intensive training across 15+ technologies including Agentic AI, RAG, LangChain, LangGraph, AWS, Azure, DevOps, and Machine Learning through hands-on practice.
+- Obtained a full-time offer after achieving P2+ proficiency in Accenture’s MyCompetency program.
+
 ### 🛰️ Research Intern | DIPR, DRDO  
 📅 July 2024 – Aug 2024
 📍 Delhi, India  
 
-- Developed a **Multimodal lie detection system** leveraging both facial expression analysis and voice-based NLP models, enabling comprehensive behavioral assessment.- Implemented data pipelines for **data cleaning, transformation, and feature extraction**.  
-- Achieved 57% accuracy on a **10K+ dataset**, while optimizing model performance to deliver **13%** faster processing**.
-- Built efficient **Data pipelines and applied advanced ML techniques** to extract actionable insights for research-driven applications  
-- Delivered technical reports and presentations summarizing methodologies and outcomes.
+- Developed a **Multimodal lie detection system** utilizing facial expression analysis and voice-based NLP techniques for behavioral assessment.
+- Processed and analyzed datasets containing 1,000+ samples, improving processing efficiency by 13% while achieving measurable model accuracy.
+- Extracted features from raw samples and built a robust data pipeline to analyze those features for answer generation.
+- Prepared and documented multiple technical research reports detailing methodologies, observations, and analytical findings.
   
 ---
 
@@ -43,10 +50,10 @@ I'm **AMAN MEENA** from **DELHI,INDIA**.
 📅 June 2025  – July 2025 
 📍 Delhi, India  
 
-- Engineered a **RAG-based chatbot** for DGFT using **LangChain, ChromaDB, and Gemini LLM**, delivering **99\% accurate responses** with real-time, up-to-date data handling. 
-- Scaled the system to **Handle 100K+ concurrent requests**, ensuring high availability and low-latency performance.
-- Built and optimised **Data pipelines to process 100+ documents**, transforming unstructured trade data into a robust knowledge base.
-- **Integrated APIs and automated workflows**, significantly reducing manual effort and improving end-to-end system efficiency. 
+- Built a **Retrieval-Augmented Generation (RAG) system** using LangChain, ChromaDB, and Google for the Directorate General of Foreign Trade website to answer queries from exporters and importers.
+- Developed scalable ingestion and embedding pipelines to process and organize 50+ government documents into a structured vector database.
+- Implemented retrieval pipelines to extract precise and contextually relevant information, that significantly improves system accuracy and response quality.
+- Enhanced the conversational flow and answer accuracy through prompt engineering, semantic search, and context aware retrieval strategies
   
 
 ## 🤝 Connect With Me
