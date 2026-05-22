@@ -29,7 +29,7 @@ I'm **AMAN MEENA** from **DELHI,INDIA**.
 ## 💼 Experience
 
 ### 🌐 Software Intern | Accenture
-📅 Dec 2025 - Present
+📅 Dec 2025 - May 2026
 📍Gurugram, Haryana
 - Help in resolveing production support tickets in a large scale internation project while maintaining SLA compliance and improving issue resolution efficiency.
 - Completed intensive training across 15+ technologies including Agentic AI, RAG, LangChain, LangGraph, AWS, Azure, DevOps, and Machine Learning through hands-on practice.
