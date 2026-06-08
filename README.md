@@ -21,7 +21,7 @@
 />
 I'm **AMAN MEENA** from **DELHI,INDIA**.
 
-- 🔭 I'm currently working on **FunRe, Safe-sphere, Edumantri.**.
+- 🔭 I'm currently working on **FunRe, Safe-sphere, Edumantri and RevuMind.**.
 - 📚 I'm currently learning about **AWS, CI/CD & Docker**.
 - 🤝 I'm open to collaborating on **AI & Backend Projects**.
 - ⚡ In my free time I **like to learn about Current Affairs & Read Self Help books (currently reading THE MOUNTAIN IS YOU BY BRENE BROWN)**.
