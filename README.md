@@ -5,7 +5,7 @@
   width="180" 
   height="160" 
   alt="Profile Illustration" 
-  src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"
+  src="https://github.com/Amanmeena0/Amanmeena0/blob/main/Video_Editing_and_GIF_Customization%20(1).gif"
 />
 
 I'm **AMAN MEENA** from **DELHI, INDIA**.
