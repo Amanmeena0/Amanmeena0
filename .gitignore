@@ -1,0 +1,7 @@
+# Local-only files
+source-prepped.png
+*.svg.png
+__pycache__/
+*.pyc
+.DS_Store
+copy-Readme.md

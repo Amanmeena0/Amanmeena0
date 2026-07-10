@@ -1,47 +1,28 @@
-## 👩‍💻 About Me    
+<!--
+  Profile README for github.com/Amanmeena0/Amanmeena0
+  The portrait and info card are SVGs with CSS animations.
+  The contribution graph refreshes daily via GitHub Actions.
+-->
+<div align="center">
 
-<img 
-  align="right" 
-  width="180" 
-  height="160" 
-  alt="Profile Illustration" 
-  src="https://github.com/Amanmeena0/Amanmeena0/blob/main/Video_Editing_and_GIF_Customization%20(1).gif"
-/>
+<table>
+<tr>
+<td valign="top"><img src="./avi-ascii.svg" width="370" alt="ASCII portrait" /></td>
+<td valign="top"><img src="./info-card.svg" width="490" alt="Experience, stack, highlights" /></td>
+</tr>
+</table>
 
-I'm **AMAN MEENA** from **DELHI, INDIA**.
+## Aman Meena
 
-- 🔭 I'm currently working on **FunRe, Safe-sphere, Edumantri and RevuMind**.
-- 📚 I'm currently learning about **AWS, CI/CD & Docker**.
-- 🤝 I'm open to collaborating on **AI & Backend Projects**.
-- ⚡ In my free time I like to learn about **Current Affairs** & read self-help books (currently reading **The Mountain Is You** by **Brené Brown**).
+**AI Engineer · Hala Madrid · Delhi, India**
 
-## 💼 Experience
+[![Portfolio](https://img.shields.io/badge/Portfolio-aman--meena.vercel.app-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://aman-meena-nine.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-aman--meena-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aman-meena-11326a395)
+[![Instagram](https://img.shields.io/badge/Instagram-naamramh-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/naamramh)
 
-### 🌐 Software Intern | Accenture
-📅 Dec **2025** - May **2026**  
-📍 Gurugram, Haryana
+<br>
 
-- Analyzed **200+** ServiceNow ITSM tickets on an international client account, identifying **4** recurring failure patterns driving **~55%** of ticket volume; documented findings in a triage report for the account team.
-- Completed Accenture technical training in Agentic AI, RAG, LangChain, AWS, and Azure; earned **P3** Accenture's best intern-level MyCompetency rating.
+<!-- animated contribution graph, refreshed daily by the workflow -->
+<img src="./contrib-heatmap.svg" width="860" alt="GitHub contribution graph" />
 
----
-
-### 🌐 AI Intern | Directorate General of Foreign Trade (DGFT)
-
-📅 June **2025** – July **2025**  
-📍 Delhi, India
-
-- Built and deployed a RAG chatbot indexing **100+** DGFT policy documents (**2K** text chunks) across **10+** policy categories; replaced a legacy keyword bot, achieving **75–85% Retrieval@3** on an internal query benchmark.
-- Reduced user effort to discover relevant policies and knowledge by **78%** via self-service conversational support, and cut hallucinated or non-DGFT responses by nearly **90%** through AI guardrails and secure session handling.
-- Iterated across **12+** prompt-tuning cycles and **16+** retrieval configurations (chunk size, top-k, reranker); tracked accuracy on a **100-question** internal evaluation set, improving policy-aligned answer rate from **~54% → 81%**.
-
----
-
-### 🛰️ Research Intern | DIPR, DRDO
-
-📅 July **2024** – Aug **2024**  
-📍 Delhi, India
-
-- Designed a multimodal deception-detection pipeline on **~1K** labeled samples: linguistic model (DistilBERT on FasterWhisper transcripts) and acoustic model (librosa MFCC, pitch, energy), with probability outputs fused via a Random Forest ensemble.
-- Linguistic model achieved **74%** accuracy and acoustic model **68%** individually; Random Forest late-fusion ensemble reached **81%** accuracy — a **~7 percentage-point** lift, showing text and voice modalities carry complementary deception signals.
-- Built reusable preprocessing modules for transcript normalization, audio segmentation (**5s** windows), and feature extraction; cut per-experiment setup time from **~60 min → ~10 min** and standardized comparison across model variants.
+</div>
