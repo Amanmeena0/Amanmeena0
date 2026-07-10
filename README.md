@@ -31,9 +31,10 @@ I'm **AMAN MEENA** from **DELHI,INDIA**.
 ### 🌐 Software Intern | Accenture
 📅 Dec 2025 - May 2026
 📍Gurugram, Haryana
-- Help in resolveing production support tickets in a large scale internation project while maintaining SLA compliance and improving issue resolution efficiency.
-- Completed intensive training across 15+ technologies including Agentic AI, RAG, LangChain, LangGraph, AWS, Azure, DevOps, and Machine Learning through hands-on practice.
-- Obtained a full-time offer after achieving P2+ proficiency in Accenture’s MyCompetency program.
+- Analyzed 200+ ServiceNow ITSM tickets on an international client account, identifying 4 recurring failure patterns driving
+∼55% of ticket volume; documented findings in a triage report for the account team.
+- Completed Accenture technical training in Agentic AI, RAG, LangChain, AWS, and Azure; earned P3 Accenture’s
+best intern-level MyCompetency rating.
 
 ---
 
@@ -41,10 +42,12 @@ I'm **AMAN MEENA** from **DELHI,INDIA**.
 📅 June 2025  – July 2025 
 📍 Delhi, India  
 
-- Built a **Retrieval-Augmented Generation (RAG) system** using LangChain, ChromaDB, and Google for the Directorate General of Foreign Trade website to answer queries from exporters and importers.
-- Developed scalable ingestion and embedding pipelines to process and organize 50+ government documents into a structured vector database.
-- Implemented retrieval pipelines to extract precise and contextually relevant information, that significantly improves system accuracy and response quality.
-- Enhanced the conversational flow and answer accuracy through prompt engineering, semantic search, and context aware retrieval strategies
+- Built and deployed a RAG chatbot indexing 100+ DGFT policy documents (2K text chunks) across 10+ policy categories;
+replaced a legacy keyword bot, achieving 75–85% retrieval@3 on an internal query benchmark.
+- Reduced user effort to discover relevant policies and knowledge by 78% via self-service conversational support, and cut
+hallucinated or non-DGFT responses by nearly 90% through AI guardrails and secure session handling.
+- Iterated across 12+ prompt-tuning cycles and 16+ retrieval configurations (chunk size, top-k, reranker); tracked accuracy on
+a 100-question internal eval set, improving policy-aligned answer rate from ∼54% → 81%.
   
 ---
 
@@ -52,10 +55,12 @@ I'm **AMAN MEENA** from **DELHI,INDIA**.
 📅 July 2024 – Aug 2024
 📍 Delhi, India  
 
-- Developed a **Multimodal lie detection system** utilizing facial expression analysis and voice-based NLP techniques for behavioral assessment.
-- Processed and analyzed datasets containing 1,000+ samples, improving processing efficiency by 33% while achieving measurable model accuracy.
-- Extracted features from raw samples and built a robust data pipeline to analyze those features for answer generation.
-- Prepared and documented multiple technical research reports detailing methodologies, observations, and analytical findings.
+-  Designed a multimodal deception-detection pipeline on ∼1K labeled samples: linguistic model (DistilBERT on FasterWhisper transcripts) and acoustic model (librosa MFCC, pitch, energy), with probability outputs fused via a Random
+Forest ensemble.
+- Linguistic model achieved 74% accuracy and acoustic model 68% individually; Random Forest late-fusion ensemble reached
+81% accuracy - a ∼7 percentage-point lift, showing text and voice modalities carry complementary deception signals.
+- Built reusable preprocessing modules for transcript normalization, audio segmentation (5s windows), and feature extraction;
+cut per-experiment setup time from ∼60 min → ∼10 min and standardized comparison across model variants.
   
 
 ## 🤝 Connect With Me
