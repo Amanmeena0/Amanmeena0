@@ -16,6 +16,14 @@
 
 **AI Engineer · Hala Madrid · Delhi, India**
 
+--- 
+
+***Internships 
+Software Engineer  | AI Intern                          | Research Intern
+Accenture, India   | Ministry of Commerece and Industry | DIPR, DRDO
+
+---
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-aman--meena.vercel.app-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://aman-meena-nine.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-aman--meena-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aman-meena-11326a395)
 [![Instagram](https://img.shields.io/badge/Instagram-naamramh-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/naamramh)
