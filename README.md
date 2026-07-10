@@ -18,9 +18,11 @@
 
 --- 
 
-***Internships 
-Software Engineer  | AI Intern                          | Research Intern
-Accenture, India   | Ministry of Commerece and Industry | DIPR, DRDO
+## Internships
+
+`Software Engineer Intern` • **Accenture, India**  
+`AI Research Intern` • **Ministry of Commerce & Industry,India**  
+`Research Intern` • **Defence Research & Development Organisation,India**
 
 ---
 
