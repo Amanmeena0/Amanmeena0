@@ -2,11 +2,6 @@
   "user": "Amanmeena0",
   "days": [
     {
-      "date": "2025-07-06",
-      "count": 0,
-      "level": 0
-    },
-    {
       "date": "2025-07-13",
       "count": 2,
       "level": 1
@@ -267,9 +262,9 @@
       "level": 1
     },
     {
-      "date": "2025-07-07",
-      "count": 0,
-      "level": 0
+      "date": "2026-07-12",
+      "count": 2,
+      "level": 1
     },
     {
       "date": "2025-07-14",
@@ -532,11 +527,6 @@
       "level": 2
     },
     {
-      "date": "2025-07-08",
-      "count": 0,
-      "level": 0
-    },
-    {
       "date": "2025-07-15",
       "count": 2,
       "level": 1
@@ -795,11 +785,6 @@
       "date": "2026-07-07",
       "count": 5,
       "level": 2
-    },
-    {
-      "date": "2025-07-09",
-      "count": 0,
-      "level": 0
     },
     {
       "date": "2025-07-16",
@@ -1062,11 +1047,6 @@
       "level": 3
     },
     {
-      "date": "2025-07-10",
-      "count": 0,
-      "level": 0
-    },
-    {
       "date": "2025-07-17",
       "count": 0,
       "level": 0
@@ -1323,11 +1303,6 @@
     },
     {
       "date": "2026-07-09",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-07-11",
       "count": 0,
       "level": 0
     },
@@ -1592,11 +1567,6 @@
       "level": 2
     },
     {
-      "date": "2025-07-12",
-      "count": 0,
-      "level": 0
-    },
-    {
       "date": "2025-07-19",
       "count": 0,
       "level": 0
@@ -1858,12 +1828,12 @@
     }
   ],
   "stats": {
-    "total": 646,
-    "active_days": 168,
-    "current_streak": 2,
+    "total": 648,
+    "active_days": 169,
+    "current_streak": 3,
     "longest_streak": 26,
     "best_day": "2026-06-07",
     "best_day_count": 12
   },
-  "fetched_at": "2026-07-11T07:43:49.633173"
+  "fetched_at": "2026-07-12T08:05:10.907589"
 }
