@@ -792,6 +792,11 @@
       "level": 2
     },
     {
+      "date": "2026-07-14",
+      "count": 0,
+      "level": 0
+    },
+    {
       "date": "2025-07-16",
       "count": 0,
       "level": 0
@@ -1835,10 +1840,10 @@
   "stats": {
     "total": 656,
     "active_days": 170,
-    "current_streak": 4,
+    "current_streak": 0,
     "longest_streak": 26,
     "best_day": "2026-06-07",
     "best_day_count": 12
   },
-  "fetched_at": "2026-07-13T08:55:18.506531"
+  "fetched_at": "2026-07-14T07:51:15.488140"
 }
