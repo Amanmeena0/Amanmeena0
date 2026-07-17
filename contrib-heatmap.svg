@@ -383,17 +383,17 @@ text { font-family: -apple-system,"Segoe UI",Helvetica,Arial,sans-serif; font-si
 <rect class="cell" x="749" y="39" width="11" height="11" rx="2" fill="#0e4429" style="animation-delay: 2.864s"><title>2026-07-13</title></rect>
 <rect class="cell" x="749" y="53" width="11" height="11" rx="2" fill="#0e4429" style="animation-delay: 2.872s"><title>2026-07-14</title></rect>
 <rect class="cell" x="749" y="67" width="11" height="11" rx="2" fill="#161b22" style="animation-delay: 2.880s"><title>2026-07-15</title></rect>
-<rect class="cell" x="749" y="81" width="11" height="11" rx="2" fill="#161b22" style="animation-delay: 2.888s"><title>2026-07-16</title></rect>
-<rect class="cell" x="749" y="95" width="11" height="11" rx="2" fill="#161b22" style="animation-delay: 2.896s"><title>2026-07-17</title></rect>
+<rect class="cell" x="749" y="81" width="11" height="11" rx="2" fill="#0e4429" style="animation-delay: 2.888s"><title>2026-07-16</title></rect>
+<rect class="cell" x="749" y="95" width="11" height="11" rx="2" fill="#006d32" style="animation-delay: 2.896s"><title>2026-07-17</title></rect>
 <rect class="cell" x="749" y="109" width="11" height="11" rx="2" fill="#161b22" style="animation-delay: 2.904s"><title>2026-07-18</title></rect>
 <text class="stat-label" x="35" y="153">Total</text>
-<text class="stat-value" x="35" y="169">658</text>
+<text class="stat-value" x="35" y="169">665</text>
 <text class="stat-label" x="175" y="153">Current Streak</text>
-<text class="stat-value" x="175" y="169">0d</text>
+<text class="stat-value" x="175" y="169">2d</text>
 <text class="stat-label" x="315" y="153">Longest Streak</text>
 <text class="stat-value" x="315" y="169">26d</text>
 <text class="stat-label" x="455" y="153">Active Days</text>
-<text class="stat-value" x="455" y="169">171</text>
+<text class="stat-value" x="455" y="169">173</text>
 <text x="663" y="178" font-size="9">Less</text>
 <rect x="691" y="169" width="11" height="11" rx="2" fill="#161b22"/>
 <rect x="705" y="169" width="11" height="11" rx="2" fill="#0e4429"/>
