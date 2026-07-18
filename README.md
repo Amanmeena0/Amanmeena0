@@ -1,14 +1,19 @@
 <!--
-  Profile README for github.com/Amanmeena0/Amanmeena0
-  The portrait and info card are SVGs with CSS animations.
-  The contribution graph refreshes daily via GitHub Actions.
+Profile README for github.com/Amanmeena0/Amanmeena0
+The portrait and info card are SVGs with CSS animations.
+The contribution graph refreshes daily via GitHub Actions.
 -->
+
 <div align="center">
 
 <table>
 <tr>
-<td valign="top"><img src="./avi-ascii.svg" height="420" width="370" alt="ASCII portrait" /></td>
-<td valign="top"><img src="./info-card.svg" width="490" alt="Experience, stack, highlights" /></td>
+<td valign="top">
+  <img src="./avi-ascii.svg" height="420" width="370" alt="ASCII portrait" />
+</td>
+<td valign="top">
+  <img src="./info-card.svg" width="490" alt="Experience, stack, highlights" />
+</td>
 </tr>
 </table>
 
@@ -19,14 +24,22 @@
 ## Internships
 
 `Software Engineer Intern` • **Accenture, India**  
-`AI Research Intern` • **Ministry of Commerce & Industry,India**  
+`AI Research Intern` • **Ministry of Commerce & Industry, India**  
 `Research Intern` • **Defence Research And Development Organization, India**
 
 ---
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-aman--meena.vercel.app-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://aman-meena-nine.vercel.app/)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-aman--meena-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aman-meena-11326a395)
+
 [![Instagram](https://img.shields.io/badge/Instagram-naamramh-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/naamramh)
+
+[![Tiny Island](https://img.shields.io/badge/Tiny%20Island-Add%20your%20tools%20here-FF5722?style=for-the-badge&logo=github-pages&logoColor=white)](https://amanmeena0.github.io/tiny-island/)
+
+<br>
+
+🏘️ **Welcome to [Tiny Island](https://amanmeena0.github.io/tiny-island/)! Submit your open-source tools and games here.**
 
 <br>
 
