@@ -35,8 +35,6 @@ The contribution graph refreshes daily via GitHub Actions.
 
 [![Instagram](https://img.shields.io/badge/Instagram-naamramh-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/naamramh)
 
-[![Tiny Island](https://img.shields.io/badge/Tiny%20Island-Add%20your%20tools%20here-FF5722?style=for-the-badge&logo=github-pages&logoColor=white)](https://amanmeena0.github.io/tiny-island/)
-
 <br>
 
 🏘️ **Welcome to [Tiny Island](https://amanmeena0.github.io/tiny-island/)! Submit your open-source tools and games here.**
