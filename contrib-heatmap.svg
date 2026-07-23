@@ -389,7 +389,7 @@ text { font-family: -apple-system,"Segoe UI",Helvetica,Arial,sans-serif; font-si
 <text class="stat-label" x="35" y="153">Total</text>
 <text class="stat-value" x="35" y="169">511</text>
 <text class="stat-label" x="175" y="153">Current Streak</text>
-<text class="stat-value" x="175" y="169">7d</text>
+<text class="stat-value" x="175" y="169">0d</text>
 <text class="stat-label" x="315" y="153">Longest Streak</text>
 <text class="stat-value" x="315" y="169">12d</text>
 <text class="stat-label" x="455" y="153">Active Days</text>
