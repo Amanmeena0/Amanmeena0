@@ -33,8 +33,6 @@ The contribution graph refreshes daily via GitHub Actions.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-aman--meena-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aman-meena-11326a395)
 
-[![Instagram](https://img.shields.io/badge/Instagram-naamramh-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/naamramh)
-
 ---
 
 🏘️ **Welcome to [Tiny Island](https://amanmeena0.github.io/tiny-island/)! Submit your open-source tools and games here.**
