@@ -1,7 +1,7 @@
 <div align="center">
   <img src="data/image.png" alt="Profile Image" />
   
-  <h1 align="center">Hi there 👋 I'm Aman Meena</h1>
+  <h1 align="center">Hi there 👋 I'm Aman </h1>
   <h3 align="center">AI Engineer · Hala Madrid · Delhi, India</h3>
 
   <p align="center">
