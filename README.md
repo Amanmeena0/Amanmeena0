@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="data/Gemini_Generated_Image_yjdhjtyjdhjtyjdh.png" alt="Profile Image" />
+  <img src="data/image.png" alt="Profile Image" />
 </div>
 
 ## Aman Meena
