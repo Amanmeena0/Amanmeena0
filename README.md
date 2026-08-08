@@ -1,15 +1,21 @@
 
+
 ## Aman Meena
 
 **AI Engineer · Hala Madrid · Delhi, India**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-aman--meena.vercel.app-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://aman-meena-nine.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-aman--meena-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aman-meena-11326a395)
-[![Instagram](https://img.shields.io/badge/Instagram-naamramh-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/naamramh)
+## Internships
 
+`Software Engineer Intern` • **Accenture, India**  
+`AI Research Intern` • **Ministry of Commerce & Industry, India**  
+`Research Intern` • **Defence Research And Development Organization, India**
+
+---
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-aman--meena-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://aman-meena-nine.vercel.app/) [![LeetCode](https://img.shields.io/badge/LeetCode-Amanmeena02-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Amanmeena02/) [![Resume](https://img.shields.io/badge/Resume-Google--Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/15gF3wKZ2mEMCrzhPAm1RC0uhFUc5bRuy/view)
+
+---
+
+🏘️ **Welcome to [Kojima](https://amanmeena0.github.io/kojima/)! Submit your open-source tools and games here.**
 <br>
 
-<!-- animated contribution graph, refreshed daily by the workflow -->
-<img src="./contrib-heatmap.svg" width="860" alt="GitHub contribution graph" />
-
-</div>
