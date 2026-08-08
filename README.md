@@ -1,16 +1,3 @@
-<!--
-  Profile README for github.com/Amanmeena0/Amanmeena0
-  The portrait and info card are SVGs with CSS animations.
-  The contribution graph refreshes daily via GitHub Actions.
--->
-<div align="center">
-
-<table>
-<tr>
-<td valign="top"><img src="./avi-ascii.svg" width="370" alt="ASCII portrait" /></td>
-<td valign="top"><img src="./info-card.svg" width="490" alt="Experience, stack, highlights" /></td>
-</tr>
-</table>
 
 ## Aman Meena
 
