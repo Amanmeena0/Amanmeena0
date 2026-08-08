@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="data/image.png" alt="Profile Image" width="300" style="border-radius: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
+  <img src="data/image.png" alt="Profile Image" />
   
   <h1 align="center">Hi there 👋 I'm Aman Meena</h1>
   <h3 align="center">AI Engineer · Hala Madrid · Delhi, India</h3>
