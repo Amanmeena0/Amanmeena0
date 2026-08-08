@@ -17,10 +17,6 @@
   </p>
 </div>
 
-<br/>
-
-<br/>
-
 ## 💼 Experience & Internships
 
 | Role | Organization | Location |
