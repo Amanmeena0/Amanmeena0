@@ -17,10 +17,6 @@
   </p>
 </div>
 
-<br/>
-
-## 🌟 Featured Project: Kojima
-
 <div align="center">
   <p>🏘️ <strong>Welcome to <a href="https://amanmeena0.github.io/kojima/">Kojima</a>!</strong></p>
   <p>An open-source hub for submitting tools and games. Feel free to explore, contribute, and be part of the community.</p>
