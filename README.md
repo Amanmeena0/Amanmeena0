@@ -19,9 +19,6 @@
 
 <br/>
 
-## 🚀 About Me
-I am a passionate **AI Engineer** based in Delhi, India, driven by a deep interest in artificial intelligence, software engineering, and continuous learning. When I'm not writing code or reading research papers, I'm probably cheering for Real Madrid (*Hala Madrid!*).
-
 <br/>
 
 ## 💼 Experience & Internships
