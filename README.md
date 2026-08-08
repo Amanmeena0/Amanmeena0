@@ -17,14 +17,6 @@
   </p>
 </div>
 
-## 💼 Experience & Internships
-
-| Role | Organization | Location |
-| :--- | :--- | :--- |
-| 💻 **Software Engineer Intern** | Accenture | India |
-| 🤖 **AI Research Intern** | Ministry of Commerce & Industry | India |
-| 🔬 **Research Intern** | Defence Research And Development Organization | India |
-
 <br/>
 
 ## 🌟 Featured Project: Kojima
