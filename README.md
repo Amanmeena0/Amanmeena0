@@ -33,6 +33,6 @@ The contribution graph refreshes daily via GitHub Actions.
 
 ---
 
-🏘️ **Welcome to [Kojima](https://amanmeena0.github.io/kojima/))! Submit your open-source tools and games here.**
+🏘️ **Welcome to [Kojima](https://amanmeena0.github.io/kojima/)! Submit your open-source tools and games here.**
 <br>
 
