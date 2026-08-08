@@ -11,7 +11,7 @@
     <a href="https://leetcode.com/u/Amanmeena02/" target="_blank">
       <img src="https://img.shields.io/badge/LeetCode-Amanmeena02-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
     </a>
-    <a href="https://drive.google.com/file/d/15gF3wKZ2mEMCrzhPAm1RC0uhFUc5bRuy/view" target="_blank">
+    <a href="https://drive.google.com/file/d/1a8d264hIBxZkBOmtqFuDun39VYYt-8uX/view?usp=sharing" target="_blank">
       <img src="https://img.shields.io/badge/Resume-Google--Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" />
     </a>
   </p>
